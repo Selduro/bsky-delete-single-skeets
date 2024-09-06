@@ -9,6 +9,7 @@ version4 enthält 3 Filter:
 - Mindestanzahl an Reskeets = Alles darunter wird gelöscht, wenn nicht von anderem Filter umfasst
 
 Die Filter verhalten sich alternativ zueinander = Nur skeets, die keine der drei Bedingungen erfüllen, werden gelöscht. Die Mindestanzahlen sind konfigurierbar
+Bekannte Fehler: Mindestanzahl kann nicht auf Null gesetzt werden. Fix kommt.
 
 
 keine haftung fuer irgendwas, benutzung auf eigene gefahr!!!
