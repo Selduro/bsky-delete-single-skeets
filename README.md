@@ -10,7 +10,7 @@ version4 enthält 3 Filter:
 
 Die Filter verhalten sich alternativ zueinander = Nur skeets, die keine der drei Bedingungen erfüllen, werden gelöscht. Die Mindestanzahlen sind konfigurierbar
 
-Bekannte Fehler: Mindestanzahl kann nicht auf Null gesetzt werden. Fix kommt.
+Bekannte Fehler: Mindestanzahl kann nicht auf Null gesetzt werden. Fix kommt. v4 bleibt solange nicht verfübar.
 
 
 keine haftung fuer irgendwas, benutzung auf eigene gefahr!!!
