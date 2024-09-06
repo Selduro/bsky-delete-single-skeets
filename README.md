@@ -4,9 +4,10 @@ Rechtsklick auf bsky-delete-single-skeets.exe oder bsky-delete-single-skeets.py 
 
 
 version4 enthält 3 Filter:
-Ist Teil eines Threads
-Mindestanzahl an Favs
+Ist Teil eines Threads;
+Mindestanzahl an Favs;
 Mindestanzahl an Reskeets
+
 Die Filter verhalten sich alternativ zueinander = Nur skeets, die keine der drei Bedingungen erfüllen, werden gelöscht. Die Mindestanzahlen sind konfigurierbar
 
 
