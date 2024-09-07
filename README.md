@@ -13,7 +13,7 @@ version8 enthält mehrere  Filter:
 Die Filter verhalten sich alternativ zueinander = Nur skeets, die keine der Bedingungen erfüllen, werden gelöscht. Die Mindestanzahlen sind konfigurierbar
 
 
-Das undo reposts.py macht genau das => reposts fremder skeets vor einem bestimmten datum werden rückgängig gemacht. das musste wegen anderer authentifizierung in ein separates programm (also _musste_ wahrscheinlich nicht, aber ich habs nicht sinnvoll in eine oberfläche bekommen)
+Das undo reposts.py macht genau das => eigene reposts fremder skeets vor einem bestimmten datum werden rückgängig gemacht. das musste wegen anderer authentifizierung in ein separates programm (also _musste_ wahrscheinlich nicht, aber ich habs nicht sinnvoll in eine oberfläche bekommen)
 
 
 keine haftung fuer irgendwas, benutzung auf eigene gefahr!!!
