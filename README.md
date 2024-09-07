@@ -3,7 +3,7 @@ Skript, das alle Einzelskeets eines Accounts, für den man obv Nutzername und Pa
 Rechtsklick auf bsky-delete-single-skeets.exe oder bsky-delete-single-skeets.py => Ziel speichern unter. Exe zum Ausführen doppelklicken und ggf. in windows defender zulassen. wenn ihr mir nicht traut, was ich empfehlen würde, dann den quellcode statt der exe laden und das skript über python ausführen. 
 
 
-version8 enthält 3 Filter:
+version8 enthält mehrere  Filter:
 - Ist Teil eines Threads ja/nein = was nicht Teil eines eigenen Threads ist, wird gelöscht, wenn nicht von anderem Filter erfasst
 - Mindestanzahl an Favs = Alles darunter wird gelöscht, wenn nicht von anderem Filter umfasst
 - Mindestanzahl an Reskeets = Alles darunter wird gelöscht, wenn nicht von anderem Filter umfasst
